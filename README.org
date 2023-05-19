@@ -1,0 +1,9 @@
+* serapeum
+
+Utilities beyond Alexandria
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/ruricolist/serapeum.git |
+| commit  | ba34f7c                                        |
+| systems | serapeum                                       |
+|---------+------------------------------------------------|
