@@ -4,6 +4,6 @@ Utilities beyond Alexandria
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/ruricolist/serapeum.git |
-| commit  | bef943f                                        |
+| commit  | 744b992                                        |
 | systems | serapeum                                       |
 |---------+------------------------------------------------|
